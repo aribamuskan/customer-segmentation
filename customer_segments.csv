@@ -1,0 +1,501 @@
+customer_id,age,annual_income,spending_score,purchase_frequency,average_purchase_value,cluster,customer_segment
+1,48,128771,40,3,77.54,1,High-Income Low-Spending
+2,44,44157,72,8,98.27,3,Moderate Customers
+3,18,48539,69,14,41.08,0,Young Frequent Shoppers
+4,24,35052,71,9,74.34,0,Young Frequent Shoppers
+5,26,87864,81,14,204.91,2,High-Value Customers
+6,26,66988,93,13,153.8,2,High-Value Customers
+7,47,91735,92,12,252.13,2,High-Value Customers
+8,56,57012,62,7,144.22,3,Moderate Customers
+9,21,41861,83,5,47.25,0,Young Frequent Shoppers
+10,18,32306,79,15,66.11,0,Young Frequent Shoppers
+11,48,69298,63,12,193.44,2,High-Value Customers
+12,40,35191,49,3,126.74,3,Moderate Customers
+13,43,48721,44,4,108.43,3,Moderate Customers
+14,43,75214,85,10,152.25,2,High-Value Customers
+15,34,74471,74,8,248.77,2,High-Value Customers
+16,35,79504,82,12,172.27,2,High-Value Customers
+17,51,108635,25,3,93.12,1,High-Income Low-Spending
+18,18,19848,86,15,61.26,0,Young Frequent Shoppers
+19,51,100603,61,6,96.8,1,High-Income Low-Spending
+20,35,66084,32,2,64.44,1,High-Income Low-Spending
+21,23,24185,90,13,64.88,0,Young Frequent Shoppers
+22,47,91161,71,17,198.86,2,High-Value Customers
+23,35,91574,21,1,123.15,1,High-Income Low-Spending
+24,64,69826,36,3,87.82,1,High-Income Low-Spending
+25,39,79448,30,2,106.76,1,High-Income Low-Spending
+26,40,57133,39,5,128.88,3,Moderate Customers
+27,39,75337,81,14,121.57,2,High-Value Customers
+28,32,28374,77,8,37.93,0,Young Frequent Shoppers
+29,18,35481,73,7,74.58,0,Young Frequent Shoppers
+30,22,89009,68,10,181.66,2,High-Value Customers
+31,22,31154,82,8,77.54,0,Young Frequent Shoppers
+32,26,97947,94,5,152.11,2,High-Value Customers
+33,40,86954,84,10,183.03,2,High-Value Customers
+34,39,74013,53,7,99.7,3,Moderate Customers
+35,36,54809,55,5,117.24,3,Moderate Customers
+36,59,70453,46,8,99.8,1,High-Income Low-Spending
+37,25,76854,11,3,100.46,1,High-Income Low-Spending
+38,48,94904,78,14,102.61,2,High-Value Customers
+39,30,42709,52,13,70.08,0,Young Frequent Shoppers
+40,41,106390,53,4,106.21,1,High-Income Low-Spending
+41,31,77252,88,9,182.5,2,High-Value Customers
+42,40,103622,33,6,87.25,1,High-Income Low-Spending
+43,33,75319,76,13,206.49,2,High-Value Customers
+44,32,70435,66,7,156.92,3,Moderate Customers
+45,37,72596,12,7,116.36,1,High-Income Low-Spending
+46,28,37800,56,17,66.94,0,Young Frequent Shoppers
+47,46,108064,35,4,80.24,1,High-Income Low-Spending
+48,31,53820,86,15,57.33,0,Young Frequent Shoppers
+49,21,33742,71,13,39.61,0,Young Frequent Shoppers
+50,47,87630,76,9,122.08,2,High-Value Customers
+51,47,60880,35,3,101.61,1,High-Income Low-Spending
+52,55,56885,32,6,103.18,1,High-Income Low-Spending
+53,18,59348,47,7,156.22,3,Moderate Customers
+54,50,56773,37,11,111.48,3,Moderate Customers
+55,28,34759,72,10,56.4,0,Young Frequent Shoppers
+56,35,59607,43,5,112.66,3,Moderate Customers
+57,33,112560,53,15,223.61,2,High-Value Customers
+58,18,84860,76,8,152.78,2,High-Value Customers
+59,26,116284,89,16,205.26,2,High-Value Customers
+60,34,85559,35,2,117.82,1,High-Income Low-Spending
+61,43,88253,37,5,90.98,1,High-Income Low-Spending
+62,57,75541,36,5,92.26,1,High-Income Low-Spending
+63,43,44987,61,6,96.93,3,Moderate Customers
+64,55,82322,16,1,115.15,1,High-Income Low-Spending
+65,32,126586,9,7,105.28,1,High-Income Low-Spending
+66,27,29551,75,10,81.55,0,Young Frequent Shoppers
+67,36,92255,76,12,190.77,2,High-Value Customers
+68,25,43822,59,6,105.4,3,Moderate Customers
+69,35,95214,75,10,186.85,2,High-Value Customers
+70,31,64899,30,8,121.81,3,Moderate Customers
+71,42,71792,70,8,63.98,3,Moderate Customers
+72,25,80628,80,14,154.6,2,High-Value Customers
+73,36,78669,74,8,147.69,2,High-Value Customers
+74,28,48290,63,4,175.81,3,Moderate Customers
+75,31,36848,60,12,56.37,0,Young Frequent Shoppers
+76,29,60601,69,13,54.45,0,Young Frequent Shoppers
+77,40,81250,42,10,127.69,3,Moderate Customers
+78,31,99486,90,14,125.04,2,High-Value Customers
+79,38,90545,29,5,104.44,1,High-Income Low-Spending
+80,24,95703,86,14,217.83,2,High-Value Customers
+81,48,65510,49,3,120.74,3,Moderate Customers
+82,29,37716,55,7,80.8,0,Young Frequent Shoppers
+83,45,107267,30,4,123.46,1,High-Income Low-Spending
+84,31,91442,75,11,169.18,2,High-Value Customers
+85,47,86383,43,2,95.33,1,High-Income Low-Spending
+86,41,121046,32,6,62.86,1,High-Income Low-Spending
+87,30,43896,71,13,57.24,0,Young Frequent Shoppers
+88,38,57989,66,9,86.8,3,Moderate Customers
+89,54,53726,45,5,76.39,3,Moderate Customers
+90,36,76925,22,4,105.86,1,High-Income Low-Spending
+91,47,75025,90,11,178.27,2,High-Value Customers
+92,33,23773,75,10,72.39,0,Young Frequent Shoppers
+93,43,89464,42,5,94.42,1,High-Income Low-Spending
+94,24,28626,84,14,56.44,0,Young Frequent Shoppers
+95,33,65657,43,7,115.07,3,Moderate Customers
+96,30,122855,48,3,90.31,1,High-Income Low-Spending
+97,30,38345,78,16,62.35,0,Young Frequent Shoppers
+98,37,70172,23,4,144.86,1,High-Income Low-Spending
+99,31,93357,80,16,268.44,2,High-Value Customers
+100,31,82658,90,14,244.63,2,High-Value Customers
+101,40,84611,86,15,208.72,2,High-Value Customers
+102,32,45667,84,14,74.73,0,Young Frequent Shoppers
+103,43,97641,42,2,109.22,1,High-Income Low-Spending
+104,25,35287,85,11,65.7,0,Young Frequent Shoppers
+105,28,68955,58,10,102.31,3,Moderate Customers
+106,37,93741,96,12,189.77,2,High-Value Customers
+107,51,98359,26,4,126.84,1,High-Income Low-Spending
+108,31,61596,42,8,71.92,3,Moderate Customers
+109,31,95658,96,12,160.57,2,High-Value Customers
+110,50,68280,58,13,162.43,2,High-Value Customers
+111,35,107750,32,3,67.99,1,High-Income Low-Spending
+112,42,99753,79,18,142.55,2,High-Value Customers
+113,26,51697,49,6,103.97,3,Moderate Customers
+114,43,44982,67,6,137.93,3,Moderate Customers
+115,30,39568,77,11,74.64,0,Young Frequent Shoppers
+116,52,62358,59,6,146.0,3,Moderate Customers
+117,34,81611,50,3,113.2,3,Moderate Customers
+118,30,102610,73,11,113.87,2,High-Value Customers
+119,36,30913,31,8,129.65,3,Moderate Customers
+120,31,25330,69,10,47.62,0,Young Frequent Shoppers
+121,54,70528,47,6,115.21,1,High-Income Low-Spending
+122,22,57034,42,4,102.97,3,Moderate Customers
+123,63,106535,24,5,134.98,1,High-Income Low-Spending
+124,42,90894,74,14,193.77,2,High-Value Customers
+125,42,99528,90,10,226.11,2,High-Value Customers
+126,47,132355,23,7,104.95,1,High-Income Low-Spending
+127,34,54193,46,7,123.07,3,Moderate Customers
+128,35,59708,76,9,120.91,3,Moderate Customers
+129,35,91800,86,9,170.99,2,High-Value Customers
+130,18,38992,78,9,88.61,0,Young Frequent Shoppers
+131,33,68641,32,6,142.1,3,Moderate Customers
+132,31,106180,80,11,210.93,2,High-Value Customers
+133,40,66354,95,16,158.11,2,High-Value Customers
+134,49,103893,33,3,83.21,1,High-Income Low-Spending
+135,40,74073,57,5,129.29,3,Moderate Customers
+136,18,115678,13,3,72.01,1,High-Income Low-Spending
+137,19,46608,64,11,64.3,0,Young Frequent Shoppers
+138,31,35768,55,13,57.59,0,Young Frequent Shoppers
+139,29,87294,45,6,91.28,3,Moderate Customers
+140,37,56140,75,7,120.75,3,Moderate Customers
+141,49,62865,47,6,108.21,3,Moderate Customers
+142,45,108097,31,5,97.98,1,High-Income Low-Spending
+143,46,59032,39,5,124.95,3,Moderate Customers
+144,18,132591,29,6,74.0,1,High-Income Low-Spending
+145,51,76039,24,8,95.23,1,High-Income Low-Spending
+146,37,103051,85,12,192.77,2,High-Value Customers
+147,45,34424,72,13,81.58,0,Young Frequent Shoppers
+148,36,41387,56,15,47.8,0,Young Frequent Shoppers
+149,37,78686,79,13,191.25,2,High-Value Customers
+150,49,124047,35,4,124.1,1,High-Income Low-Spending
+151,51,45269,57,7,102.56,3,Moderate Customers
+152,46,87749,81,11,180.55,2,High-Value Customers
+153,26,68399,96,9,145.3,2,High-Value Customers
+154,23,83499,17,7,125.25,3,Moderate Customers
+155,34,87029,62,5,47.51,3,Moderate Customers
+156,53,69156,64,15,265.39,2,High-Value Customers
+157,38,40639,77,13,76.38,0,Young Frequent Shoppers
+158,43,61250,49,4,102.98,3,Moderate Customers
+159,21,88525,70,9,186.3,2,High-Value Customers
+160,38,44183,51,7,79.11,3,Moderate Customers
+161,35,90957,36,2,102.63,1,High-Income Low-Spending
+162,19,28986,74,5,71.61,0,Young Frequent Shoppers
+163,28,40525,73,14,66.88,0,Young Frequent Shoppers
+164,25,36223,77,10,65.61,0,Young Frequent Shoppers
+165,29,80056,66,17,136.46,2,High-Value Customers
+166,34,51379,61,5,141.19,3,Moderate Customers
+167,38,100022,22,8,70.31,1,High-Income Low-Spending
+168,37,99507,84,11,175.46,2,High-Value Customers
+169,35,87795,90,19,160.49,2,High-Value Customers
+170,18,34117,100,8,89.59,0,Young Frequent Shoppers
+171,40,29464,77,15,59.31,0,Young Frequent Shoppers
+172,33,81275,70,10,137.16,2,High-Value Customers
+173,28,27300,73,5,69.96,0,Young Frequent Shoppers
+174,42,60094,84,16,137.66,2,High-Value Customers
+175,40,39190,62,10,73.37,0,Young Frequent Shoppers
+176,36,98081,71,13,130.52,2,High-Value Customers
+177,27,25961,61,14,81.37,0,Young Frequent Shoppers
+178,51,75338,27,6,103.54,1,High-Income Low-Spending
+179,61,64720,52,5,113.34,1,High-Income Low-Spending
+180,34,100622,90,10,133.41,2,High-Value Customers
+181,27,104144,19,1,109.71,1,High-Income Low-Spending
+182,55,89909,88,12,176.54,2,High-Value Customers
+183,48,56517,53,7,93.3,3,Moderate Customers
+184,49,57900,41,7,87.54,3,Moderate Customers
+185,45,94836,41,5,99.37,1,High-Income Low-Spending
+186,34,48902,77,10,45.32,0,Young Frequent Shoppers
+187,30,56337,43,6,111.42,3,Moderate Customers
+188,32,34295,76,10,35.37,0,Young Frequent Shoppers
+189,21,33559,55,12,87.96,0,Young Frequent Shoppers
+190,45,86798,95,12,168.2,2,High-Value Customers
+191,30,85463,76,13,185.62,2,High-Value Customers
+192,40,65243,64,8,72.88,3,Moderate Customers
+193,18,71212,34,6,80.75,3,Moderate Customers
+194,18,40415,79,8,26.13,0,Young Frequent Shoppers
+195,40,102052,15,4,99.62,1,High-Income Low-Spending
+196,51,97152,20,6,96.04,1,High-Income Low-Spending
+197,28,25667,65,7,62.41,0,Young Frequent Shoppers
+198,55,43537,31,9,104.77,3,Moderate Customers
+199,34,72479,43,10,126.95,3,Moderate Customers
+200,36,85888,43,7,117.48,3,Moderate Customers
+201,37,50615,70,8,71.9,0,Young Frequent Shoppers
+202,30,120201,81,11,186.46,2,High-Value Customers
+203,24,75426,92,10,143.36,2,High-Value Customers
+204,45,74228,59,8,91.08,3,Moderate Customers
+205,18,50013,66,9,84.92,0,Young Frequent Shoppers
+206,39,96838,100,10,212.47,2,High-Value Customers
+207,35,94029,95,14,198.84,2,High-Value Customers
+208,36,31350,60,7,35.5,0,Young Frequent Shoppers
+209,51,73452,78,11,190.76,2,High-Value Customers
+210,42,102907,74,11,189.89,2,High-Value Customers
+211,26,51073,76,12,74.94,0,Young Frequent Shoppers
+212,36,36810,54,11,55.23,0,Young Frequent Shoppers
+213,24,40864,85,10,69.63,0,Young Frequent Shoppers
+214,49,93611,100,14,118.37,2,High-Value Customers
+215,33,38812,85,12,62.92,0,Young Frequent Shoppers
+216,25,86865,71,10,200.6,2,High-Value Customers
+217,62,102104,18,5,129.92,1,High-Income Low-Spending
+218,24,33660,70,8,74.72,0,Young Frequent Shoppers
+219,27,39195,59,9,75.84,0,Young Frequent Shoppers
+220,37,80724,45,6,133.31,3,Moderate Customers
+221,18,17392,52,14,56.72,0,Young Frequent Shoppers
+222,46,29358,72,15,95.09,0,Young Frequent Shoppers
+223,51,108125,90,14,207.24,2,High-Value Customers
+224,39,80272,30,4,88.67,1,High-Income Low-Spending
+225,52,112195,31,7,71.46,1,High-Income Low-Spending
+226,33,79248,61,12,175.74,2,High-Value Customers
+227,54,67570,38,10,140.53,3,Moderate Customers
+228,51,90923,20,3,127.22,1,High-Income Low-Spending
+229,57,78519,44,4,113.52,1,High-Income Low-Spending
+230,18,38232,68,9,41.08,0,Young Frequent Shoppers
+231,45,53608,36,1,109.31,3,Moderate Customers
+232,40,51613,65,8,72.03,3,Moderate Customers
+233,21,38018,79,14,63.5,0,Young Frequent Shoppers
+234,43,79196,22,4,109.18,1,High-Income Low-Spending
+235,42,77952,95,11,179.25,2,High-Value Customers
+236,23,15000,81,12,60.78,0,Young Frequent Shoppers
+237,46,104287,14,3,119.86,1,High-Income Low-Spending
+238,25,94403,66,13,178.75,2,High-Value Customers
+239,18,46647,61,8,68.01,0,Young Frequent Shoppers
+240,44,74763,81,13,204.26,2,High-Value Customers
+241,42,55596,40,6,83.2,3,Moderate Customers
+242,18,65239,61,1,84.76,3,Moderate Customers
+243,46,84690,50,5,105.43,1,High-Income Low-Spending
+244,59,83373,22,3,76.17,1,High-Income Low-Spending
+245,36,114370,83,11,169.79,2,High-Value Customers
+246,26,70597,49,6,189.83,3,Moderate Customers
+247,48,81468,26,6,102.83,1,High-Income Low-Spending
+248,27,71031,42,10,137.0,3,Moderate Customers
+249,36,75372,51,8,122.12,3,Moderate Customers
+250,32,52277,62,5,99.91,3,Moderate Customers
+251,35,102625,51,2,100.61,1,High-Income Low-Spending
+252,59,93566,35,2,110.71,1,High-Income Low-Spending
+253,38,71829,64,11,124.49,3,Moderate Customers
+254,48,98499,26,5,92.61,1,High-Income Low-Spending
+255,36,109764,70,15,226.1,2,High-Value Customers
+256,27,15000,63,14,64.66,0,Young Frequent Shoppers
+257,31,53943,60,7,104.03,3,Moderate Customers
+258,25,31082,59,15,60.17,0,Young Frequent Shoppers
+259,37,50213,82,9,71.06,0,Young Frequent Shoppers
+260,35,76444,83,8,221.57,2,High-Value Customers
+261,25,37012,73,9,73.8,0,Young Frequent Shoppers
+262,36,70456,34,6,158.47,3,Moderate Customers
+263,27,79834,85,13,192.27,2,High-Value Customers
+264,31,41347,83,11,61.38,0,Young Frequent Shoppers
+265,46,82799,48,4,137.68,1,High-Income Low-Spending
+266,27,15000,80,8,63.64,0,Young Frequent Shoppers
+267,30,36905,79,9,72.7,0,Young Frequent Shoppers
+268,26,42388,77,7,81.29,0,Young Frequent Shoppers
+269,40,109545,34,8,94.41,1,High-Income Low-Spending
+270,42,94650,27,6,59.59,1,High-Income Low-Spending
+271,31,47186,61,9,107.39,0,Young Frequent Shoppers
+272,38,60841,64,4,115.96,3,Moderate Customers
+273,49,66013,52,8,42.42,3,Moderate Customers
+274,46,52151,28,7,144.34,3,Moderate Customers
+275,27,44529,89,14,89.6,0,Young Frequent Shoppers
+276,33,35754,51,9,52.35,0,Young Frequent Shoppers
+277,60,57889,51,7,111.09,3,Moderate Customers
+278,40,28774,72,8,45.2,0,Young Frequent Shoppers
+279,24,34630,65,8,43.91,0,Young Frequent Shoppers
+280,39,41943,59,6,73.56,3,Moderate Customers
+281,37,50974,54,9,63.12,3,Moderate Customers
+282,46,92118,37,4,81.2,1,High-Income Low-Spending
+283,42,80672,41,4,147.53,1,High-Income Low-Spending
+284,35,79374,65,7,124.56,3,Moderate Customers
+285,30,40087,51,13,57.75,0,Young Frequent Shoppers
+286,36,114183,89,11,148.81,2,High-Value Customers
+287,23,82055,28,2,96.72,1,High-Income Low-Spending
+288,29,32751,62,11,71.63,0,Young Frequent Shoppers
+289,34,120397,29,4,117.71,1,High-Income Low-Spending
+290,30,44531,73,8,70.42,0,Young Frequent Shoppers
+291,26,91628,80,11,175.5,2,High-Value Customers
+292,20,81769,81,12,144.03,2,High-Value Customers
+293,51,49606,62,7,93.84,3,Moderate Customers
+294,63,73515,39,6,83.23,1,High-Income Low-Spending
+295,46,86249,83,13,175.3,2,High-Value Customers
+296,34,42935,49,14,40.06,0,Young Frequent Shoppers
+297,49,73520,37,5,82.36,1,High-Income Low-Spending
+298,33,85379,88,16,228.85,2,High-Value Customers
+299,24,32908,50,8,79.47,0,Young Frequent Shoppers
+300,48,71485,74,12,189.81,2,High-Value Customers
+301,29,96361,75,12,199.12,2,High-Value Customers
+302,28,30636,69,10,59.45,0,Young Frequent Shoppers
+303,26,50986,77,9,75.45,0,Young Frequent Shoppers
+304,26,46731,74,10,71.72,0,Young Frequent Shoppers
+305,18,23732,56,10,90.99,0,Young Frequent Shoppers
+306,60,67657,56,2,96.43,1,High-Income Low-Spending
+307,22,28792,68,9,35.31,0,Young Frequent Shoppers
+308,52,75691,32,8,77.02,1,High-Income Low-Spending
+309,18,56568,63,10,79.26,0,Young Frequent Shoppers
+310,50,86624,29,9,62.43,1,High-Income Low-Spending
+311,48,103418,41,4,107.7,1,High-Income Low-Spending
+312,32,94037,77,14,167.06,2,High-Value Customers
+313,38,89561,91,12,117.94,2,High-Value Customers
+314,51,49131,42,5,144.36,3,Moderate Customers
+315,21,97653,63,6,108.63,3,Moderate Customers
+316,30,40211,78,12,66.34,0,Young Frequent Shoppers
+317,43,92277,28,6,114.84,1,High-Income Low-Spending
+318,18,99839,82,12,166.4,2,High-Value Customers
+319,44,104213,72,13,145.99,2,High-Value Customers
+320,31,83719,39,6,112.83,3,Moderate Customers
+321,33,40162,62,11,77.01,0,Young Frequent Shoppers
+322,33,46889,78,11,81.05,0,Young Frequent Shoppers
+323,28,26181,68,8,54.87,0,Young Frequent Shoppers
+324,44,80736,27,1,105.33,1,High-Income Low-Spending
+325,40,50195,58,8,69.81,3,Moderate Customers
+326,23,27309,59,12,62.09,0,Young Frequent Shoppers
+327,26,15000,78,6,65.9,0,Young Frequent Shoppers
+328,30,48607,54,1,67.76,3,Moderate Customers
+329,63,117301,32,3,120.18,1,High-Income Low-Spending
+330,27,97145,85,15,276.59,2,High-Value Customers
+331,49,85839,30,1,82.63,1,High-Income Low-Spending
+332,36,53711,52,4,138.03,3,Moderate Customers
+333,35,89860,77,12,208.88,2,High-Value Customers
+334,28,80128,77,8,151.33,2,High-Value Customers
+335,31,103116,83,13,209.78,2,High-Value Customers
+336,34,95857,79,13,159.6,2,High-Value Customers
+337,18,58389,67,8,134.13,0,Young Frequent Shoppers
+338,37,35887,72,8,60.26,0,Young Frequent Shoppers
+339,51,116670,29,3,100.01,1,High-Income Low-Spending
+340,40,68342,57,10,137.28,3,Moderate Customers
+341,40,92340,25,7,108.17,1,High-Income Low-Spending
+342,48,106200,19,6,98.11,1,High-Income Low-Spending
+343,40,73922,64,14,193.17,2,High-Value Customers
+344,36,79346,41,2,141.07,1,High-Income Low-Spending
+345,36,106491,27,5,86.4,1,High-Income Low-Spending
+346,27,35409,58,12,57.3,0,Young Frequent Shoppers
+347,26,25057,39,9,101.19,0,Young Frequent Shoppers
+348,41,89711,77,12,199.15,2,High-Value Customers
+349,33,115058,37,5,110.96,1,High-Income Low-Spending
+350,28,41729,77,9,56.4,0,Young Frequent Shoppers
+351,29,50490,55,6,67.47,3,Moderate Customers
+352,40,62080,53,6,147.25,3,Moderate Customers
+353,18,26715,69,5,62.36,0,Young Frequent Shoppers
+354,48,90313,82,8,158.43,2,High-Value Customers
+355,32,85234,93,14,141.1,2,High-Value Customers
+356,30,39982,84,15,49.77,0,Young Frequent Shoppers
+357,29,71136,78,13,214.56,2,High-Value Customers
+358,27,31802,72,7,96.34,0,Young Frequent Shoppers
+359,26,62217,74,6,105.25,3,Moderate Customers
+360,25,33196,86,3,88.0,0,Young Frequent Shoppers
+361,31,90200,26,5,60.05,1,High-Income Low-Spending
+362,31,55243,54,11,55.07,0,Young Frequent Shoppers
+363,49,95345,24,5,145.11,1,High-Income Low-Spending
+364,27,42198,54,7,72.09,0,Young Frequent Shoppers
+365,53,64267,46,6,78.74,3,Moderate Customers
+366,51,110882,25,3,106.65,1,High-Income Low-Spending
+367,36,59206,75,6,101.04,3,Moderate Customers
+368,34,68930,48,5,143.03,3,Moderate Customers
+369,46,80994,61,15,156.04,2,High-Value Customers
+370,41,60448,89,8,205.58,2,High-Value Customers
+371,35,75691,76,14,183.71,2,High-Value Customers
+372,40,119647,64,17,183.65,2,High-Value Customers
+373,28,70045,78,15,175.54,2,High-Value Customers
+374,39,20488,70,6,70.45,0,Young Frequent Shoppers
+375,42,83689,54,13,195.29,2,High-Value Customers
+376,49,117244,19,5,129.81,1,High-Income Low-Spending
+377,24,63836,44,6,118.69,3,Moderate Customers
+378,31,79864,80,9,142.0,2,High-Value Customers
+379,46,46214,58,7,66.85,3,Moderate Customers
+380,38,116494,20,3,111.55,1,High-Income Low-Spending
+381,41,86227,74,16,240.86,2,High-Value Customers
+382,35,35853,60,8,72.84,0,Young Frequent Shoppers
+383,31,49016,78,5,80.78,0,Young Frequent Shoppers
+384,31,55392,53,10,187.75,3,Moderate Customers
+385,32,33168,76,13,60.19,0,Young Frequent Shoppers
+386,56,62761,56,7,120.54,3,Moderate Customers
+387,53,83889,24,2,110.99,1,High-Income Low-Spending
+388,41,96867,97,12,203.41,2,High-Value Customers
+389,30,55355,58,8,102.65,3,Moderate Customers
+390,39,41786,46,8,124.38,3,Moderate Customers
+391,45,60597,50,5,127.47,3,Moderate Customers
+392,49,103856,25,1,127.43,1,High-Income Low-Spending
+393,40,79470,37,3,126.5,1,High-Income Low-Spending
+394,46,68203,34,8,116.53,3,Moderate Customers
+395,41,97581,12,5,74.27,1,High-Income Low-Spending
+396,28,41732,63,5,148.34,3,Moderate Customers
+397,35,39512,37,8,106.1,3,Moderate Customers
+398,40,97880,35,6,136.21,1,High-Income Low-Spending
+399,37,44087,45,7,85.91,3,Moderate Customers
+400,31,64125,49,6,91.04,3,Moderate Customers
+401,33,76137,89,15,115.38,2,High-Value Customers
+402,32,42042,42,6,73.76,3,Moderate Customers
+403,22,24960,72,10,54.17,0,Young Frequent Shoppers
+404,42,53440,47,9,143.51,3,Moderate Customers
+405,32,109935,38,2,120.47,1,High-Income Low-Spending
+406,54,46529,39,8,116.79,3,Moderate Customers
+407,51,101131,34,1,126.18,1,High-Income Low-Spending
+408,44,86559,80,7,198.0,2,High-Value Customers
+409,45,59254,63,5,124.12,3,Moderate Customers
+410,27,89647,78,13,167.07,2,High-Value Customers
+411,44,109869,26,1,143.74,1,High-Income Low-Spending
+412,52,44493,58,5,116.59,3,Moderate Customers
+413,43,57187,41,5,87.1,3,Moderate Customers
+414,22,34328,61,12,87.31,0,Young Frequent Shoppers
+415,24,37394,76,11,66.14,0,Young Frequent Shoppers
+416,52,103680,18,6,122.18,1,High-Income Low-Spending
+417,37,95683,37,4,126.82,1,High-Income Low-Spending
+418,69,80852,16,5,118.04,1,High-Income Low-Spending
+419,26,49533,54,12,55.91,0,Young Frequent Shoppers
+420,55,83910,41,5,131.49,1,High-Income Low-Spending
+421,37,59455,50,2,109.65,3,Moderate Customers
+422,34,54083,67,3,130.33,3,Moderate Customers
+423,33,85804,88,13,199.97,2,High-Value Customers
+424,55,89036,24,2,79.36,1,High-Income Low-Spending
+425,59,108670,66,8,196.87,2,High-Value Customers
+426,32,40489,67,10,69.92,0,Young Frequent Shoppers
+427,46,55053,28,2,104.38,1,High-Income Low-Spending
+428,67,64410,46,8,122.07,1,High-Income Low-Spending
+429,49,105923,51,2,111.84,1,High-Income Low-Spending
+430,28,98333,71,11,169.67,2,High-Value Customers
+431,43,103777,68,12,155.16,2,High-Value Customers
+432,29,57396,46,11,120.82,3,Moderate Customers
+433,18,29352,82,16,41.21,0,Young Frequent Shoppers
+434,20,118064,84,9,198.71,2,High-Value Customers
+435,18,90051,83,15,144.51,2,High-Value Customers
+436,29,25746,73,7,58.88,0,Young Frequent Shoppers
+437,27,99767,89,11,181.34,2,High-Value Customers
+438,27,56404,49,11,82.2,0,Young Frequent Shoppers
+439,38,44969,73,15,70.58,0,Young Frequent Shoppers
+440,38,89203,92,15,158.1,2,High-Value Customers
+441,24,86955,72,12,223.31,2,High-Value Customers
+442,36,59486,51,8,53.83,3,Moderate Customers
+443,39,98803,42,3,53.09,1,High-Income Low-Spending
+444,51,83563,18,3,95.39,1,High-Income Low-Spending
+445,35,33533,61,9,126.29,3,Moderate Customers
+446,30,57582,50,7,126.71,3,Moderate Customers
+447,33,60984,55,9,127.61,3,Moderate Customers
+448,47,61006,67,7,88.47,3,Moderate Customers
+449,59,107562,26,3,107.41,1,High-Income Low-Spending
+450,39,92959,83,17,217.5,2,High-Value Customers
+451,42,71296,38,7,155.23,3,Moderate Customers
+452,26,26524,62,7,53.23,0,Young Frequent Shoppers
+453,41,69700,30,6,77.31,1,High-Income Low-Spending
+454,54,66130,62,5,131.36,3,Moderate Customers
+455,26,103354,82,14,138.85,2,High-Value Customers
+456,36,105750,21,5,65.82,1,High-Income Low-Spending
+457,42,71512,86,14,155.61,2,High-Value Customers
+458,51,99688,25,2,50.93,1,High-Income Low-Spending
+459,38,66528,81,11,203.77,2,High-Value Customers
+460,33,85058,87,13,191.07,2,High-Value Customers
+461,39,66966,88,14,144.42,2,High-Value Customers
+462,26,34607,68,11,86.47,0,Young Frequent Shoppers
+463,36,21878,77,14,70.8,0,Young Frequent Shoppers
+464,36,55123,82,11,80.68,0,Young Frequent Shoppers
+465,41,60287,46,9,89.54,3,Moderate Customers
+466,60,103998,16,5,47.5,1,High-Income Low-Spending
+467,51,110934,24,4,148.85,1,High-Income Low-Spending
+468,35,47293,68,10,110.09,0,Young Frequent Shoppers
+469,43,110122,73,11,223.08,2,High-Value Customers
+470,55,66755,39,10,96.73,3,Moderate Customers
+471,32,95135,96,15,194.52,2,High-Value Customers
+472,44,60522,57,1,102.58,3,Moderate Customers
+473,37,72735,84,11,241.44,2,High-Value Customers
+474,54,54410,48,6,98.71,3,Moderate Customers
+475,29,27417,56,12,74.44,0,Young Frequent Shoppers
+476,33,70744,42,7,130.51,3,Moderate Customers
+477,35,96821,75,11,172.79,2,High-Value Customers
+478,23,33232,51,9,60.73,0,Young Frequent Shoppers
+479,38,57102,49,7,131.86,3,Moderate Customers
+480,23,22968,57,9,59.72,0,Young Frequent Shoppers
+481,23,22039,65,11,73.93,0,Young Frequent Shoppers
+482,24,30870,59,10,52.27,0,Young Frequent Shoppers
+483,51,62854,26,5,104.6,1,High-Income Low-Spending
+484,47,38498,58,10,38.36,0,Young Frequent Shoppers
+485,27,26669,81,8,63.25,0,Young Frequent Shoppers
+486,34,80866,46,10,130.35,3,Moderate Customers
+487,39,95531,84,6,170.24,2,High-Value Customers
+488,53,94120,16,4,142.6,1,High-Income Low-Spending
+489,51,59256,61,5,67.4,3,Moderate Customers
+490,32,78755,47,6,102.5,3,Moderate Customers
+491,64,124267,52,4,107.39,1,High-Income Low-Spending
+492,18,49769,56,11,48.54,0,Young Frequent Shoppers
+493,39,79929,24,3,86.29,1,High-Income Low-Spending
+494,42,73427,82,16,162.04,2,High-Value Customers
+495,38,90851,42,4,86.72,1,High-Income Low-Spending
+496,50,75159,37,5,92.3,1,High-Income Low-Spending
+497,22,26133,76,14,55.44,0,Young Frequent Shoppers
+498,39,58695,74,12,148.16,2,High-Value Customers
+499,32,51987,54,6,54.04,3,Moderate Customers
+500,21,52718,55,1,97.51,3,Moderate Customers
